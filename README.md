@@ -1,4 +1,4 @@
-![Estático](https://img.shields.io/badge/Liga--De--La--Justicia-Activa-blue)
+![Estático](https://img.shields.io/badge/Liga--De--La--Jústicia-Activa-blue)
 
 ![Con logo](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -12,6 +12,6 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-
 ## Notas
+
 Pueden hacer lo que quieran...
