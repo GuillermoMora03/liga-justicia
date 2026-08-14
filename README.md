@@ -1,5 +1,7 @@
 ![Estático](https://img.shields.io/badge/Liga--De--La--Jústicia-Activa-orange)
 
+# La Legión del Mal - Desde Remoto
+
 ![Con logo](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![Workflow](https://img.shields.io/github/actions/workflow/status/GuillermoMora03/liga-justicia/ci.yml)
