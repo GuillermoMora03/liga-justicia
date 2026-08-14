@@ -18,4 +18,4 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 Estas son las notas del proyecto por lo tanto es de prueba.
 
-## ¿Quiénes somos? - Remoto
+## ¿Quiénes somos? - Remoto y Local
